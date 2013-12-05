@@ -14,4 +14,9 @@ Composer :
 
 Pour installer composer : curl -sS https://getcomposer.org/installer | php
 
-Et si vous souhaiter en savoir plus sur composer : http://getcomposer.org/doc/00-intro.md
+Et si vous souhaitez en savoir plus sur composer : http://getcomposer.org/doc/00-intro.md
+
+Drupal 8
+
+Drupal 8.0-alpha6 .tar.gz http://ftp.drupal.org/files/projects/drupal-8.0-alpha6.tar.gz
+Drupal 8.0-alpha6 .zip http://ftp.drupal.org/files/projects/drupal-8.0-alpha6.zip

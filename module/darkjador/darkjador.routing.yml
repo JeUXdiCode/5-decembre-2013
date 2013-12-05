@@ -1,0 +1,6 @@
+darkjador.helloworld:
+  path: 'darkjador'
+  defaults:
+    _controller: 'Drupal\darkjador\Controller\DarkjadorController::getPage'
+  requirements:
+    _permission: 'access content'

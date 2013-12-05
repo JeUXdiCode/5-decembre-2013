@@ -1,0 +1,5 @@
+name: Dark Jador
+type: module
+description: 'Hello world module for "JeUXdiCode" event'
+package: JeUXdiCode
+core: 8.x

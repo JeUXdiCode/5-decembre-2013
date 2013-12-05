@@ -1,0 +1,5 @@
+services:
+  darkjador.subscriber:
+    class: Drupal\darkjador\EventSubscriber\DarkjadorSubscriber
+    tags:
+      - { name: event_subscriber }

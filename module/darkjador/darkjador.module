@@ -1,0 +1,22 @@
+<?php
+
+/**
+ * hook_theme()
+ * @param Array $existing
+ * @param String $type
+ * @param String $theme
+ * @param String $path
+ * @return Array
+ */
+function darkjador_theme($existing, $type, $theme, $path)
+{
+    $items = array();
+
+    $items['darkjador_message'] = array(
+        'template' => 'darkjador-message',
+        'variables' => array('message' => ''),
+        'path' => $path . '/ressources/templates',
+    );
+
+    return $items;
+}

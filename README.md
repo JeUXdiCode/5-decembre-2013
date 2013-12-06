@@ -20,3 +20,7 @@ Drupal 8
 
 Drupal 8.0-alpha6 .tar.gz http://ftp.drupal.org/files/projects/drupal-8.0-alpha6.tar.gz
 Drupal 8.0-alpha6 .zip http://ftp.drupal.org/files/projects/drupal-8.0-alpha6.zip
+
+
+
+Retrouvez les slides de la presentation ici : http://www.slideshare.net/slideshow/embed_code/28956921
